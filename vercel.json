@@ -1,12 +1,6 @@
-
 {
   "version": 2,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ],
+  "outputDirectory": ".",
   "cleanUrls": true,
   "trailingSlash": false
 }
