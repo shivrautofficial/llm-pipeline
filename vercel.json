@@ -1,7 +1,12 @@
+
 {
   "version": 2,
-  "public": true,
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ],
   "cleanUrls": true,
   "trailingSlash": false
 }
